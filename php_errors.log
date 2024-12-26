@@ -1,0 +1,25 @@
+[26-Dec-2024 17:18:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "alt" in D:\Projetos Rocketseat\portifolio\components\hero.php:3
+Stack trace:
+#0 D:\Projetos Rocketseat\portifolio\index2.php(15): include()
+#1 {main}
+  thrown in D:\Projetos Rocketseat\portifolio\components\hero.php on line 3
+[26-Dec-2024 17:19:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "alt" in D:\Projetos Rocketseat\portifolio\components\hero.php:3
+Stack trace:
+#0 D:\Projetos Rocketseat\portifolio\index2.php(15): include()
+#1 {main}
+  thrown in D:\Projetos Rocketseat\portifolio\components\hero.php on line 3
+[26-Dec-2024 17:19:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "alt" in D:\Projetos Rocketseat\portifolio\components\hero.php:3
+Stack trace:
+#0 D:\Projetos Rocketseat\portifolio\index2.php(15): include()
+#1 {main}
+  thrown in D:\Projetos Rocketseat\portifolio\components\hero.php on line 3
+[26-Dec-2024 17:19:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "alt" in D:\Projetos Rocketseat\portifolio\components\hero.php:3
+Stack trace:
+#0 D:\Projetos Rocketseat\portifolio\index2.php(15): include()
+#1 {main}
+  thrown in D:\Projetos Rocketseat\portifolio\components\hero.php on line 3
+[26-Dec-2024 17:19:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "alt" in D:\Projetos Rocketseat\portifolio\components\hero.php:3
+Stack trace:
+#0 D:\Projetos Rocketseat\portifolio\index2.php(15): include()
+#1 {main}
+  thrown in D:\Projetos Rocketseat\portifolio\components\hero.php on line 3
